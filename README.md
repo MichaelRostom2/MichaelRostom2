@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Michael
+
+I am an aspiring Computer Science student. I am intereseted in software development and AI.
+
 
 <!--
 **MichaelRostom2/MichaelRostom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
