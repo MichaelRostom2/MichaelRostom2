@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Michael
 
-I am an aspiring Computer Science student. I am intereseted in software development and AI.
+I am an aspiring Computer Science student. I am have a passion for software engineering and systems. 
+
+
+Driven and results-oriented computer science student with a passion for software engineering and systems. I have a strong foundation in various programming languages and frameworks, gained through a rigorous curriculum at Brown University. Seeking to apply my technical skills and problem-solving abilities to a challenging and innovative role in the tech industry.
 
 
 <!--
