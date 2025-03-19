@@ -5,6 +5,7 @@ I am an aspiring Computer Science student. I am have a passion for software engi
 
 Driven and results-oriented computer science student with a passion for software engineering and systems. I have a strong foundation in various programming languages and frameworks, gained through a rigorous curriculum at Brown University. Seeking to apply my technical skills and problem-solving abilities to a challenging and innovative role in the tech industry.
 
+I also host code at CodeBerg: https://codeberg.org/MichaelRostom
 
 <!--
 **MichaelRostom2/MichaelRostom2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
