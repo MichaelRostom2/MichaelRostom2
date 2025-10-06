@@ -1,4 +1,4 @@
 ### Hi there 👋, I'm Michael
-I'm a Computer Science student at Brown University Class of 2026. I have experience in various programming languages and frameworks—including Python, C, Java, and React—I enjoy collaborating on challenging projects that require problem-solving and creative thinking.
+I am actively seeking internship/job opportunities in software engineering. 
 
-Currently seeking internship opportunities in software engineering and related positions.
+Checkout my resume: [https://michaelrostom.dev/content/files/2025/08/Michael_Rostom_Resume.pdf](https://michaelrostom.dev/content/files/2025/08/Michael_Rostom_Resume.pdf)
