@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Michael
-I'm a Computer Science student at Brown University. Originally from Syria 🇸🇾
 
-I am actively seeking internship/job opportunities in software engineering. 
+## Senior Computer Science Student
 
-Checkout my resume: [https://michaelrostom.dev/content/files/2025/08/Michael_Rostom_Resume.pdf](https://michaelrostom.dev/content/files/2025/08/Michael_Rostom_Resume.pdf)
+I build software with a focus on performance and tangible impact. My work spans the entire technology stack, allowing me to choose the right tool for the job—whether that’s React for interactive interfaces, Python for AI pipelines, or C++ for embedded hardware.
+
+I believe the best way to understand a system is to build it yourself.
